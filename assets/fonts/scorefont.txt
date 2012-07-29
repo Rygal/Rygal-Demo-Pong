@@ -1,0 +1,3 @@
+fonts/scorefont.png
+12x20
+0123456789
